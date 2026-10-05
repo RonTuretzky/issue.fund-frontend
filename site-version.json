@@ -1,0 +1,10 @@
+{
+  "repository": "RonTuretzky/issue.fund-frontend",
+  "domain": "issue.fund",
+  "artifactType": "reviewed-static-export",
+  "upstreamPagesCommit": "36b8ec5456e1fe4e1c35c172877767db71865607",
+  "upstreamSourceCommit": "175c8e782c1ea46c397331119207446971716a35",
+  "changes": [
+    "Public documentation source-access notices and frontend support links"
+  ]
+}
